@@ -68,7 +68,7 @@ nav ul li a {
   text-decoration: none;
 }
 nav ul li:hover {
-  background: coral;
+  background: dimgrey;
 }
 .margenSuperior{
 	margin-top: 10%;
