@@ -1,0 +1,128 @@
+.cabecera{
+	text-align:center;
+	color:white;
+	font-size: 50px;
+	font-family: Arial, sans-serif;
+}
+.fondo{
+  background:url(imagenes/fondo.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.parrafo{
+	text-align:center;
+	color:white;
+	font-size: 30px;
+	font-family: Arial, sans-serif;
+}
+.centrar{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+}
+.fieldset{
+	background-color: coral;
+	width: 50%;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 70%;
+  	margin-bottom: 10%;
+}
+.instagram{
+	text-align:center;
+	color:white;
+	font-size: 20px;
+	font-weight: bold;
+}
+.a{
+	margin-auto: auto;
+}
+header {
+  background: rgba(0,0,0,0.7);
+  width: 100%;
+  position: fixed;
+  z-index: 100;
+}
+
+nav {
+  float: left;
+}
+
+nav ul {
+  list-style: none;
+  overflow: hidden; 
+}
+
+nav ul li {
+  float: left;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+nav ul li a {
+  display: block;
+  padding: 10px;
+  color: #fff;
+  text-decoration: none;
+}
+nav ul li:hover {
+  background: coral;
+}
+.margenSuperior{
+	margin-top: 10%;
+}
+.margenInferior{
+	margin-bottom: 10%;
+}
+.imagenPrincipal{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.icono{
+	width: 3%;
+}
+
+img.alineadoTextoImagenArriba{
+  vertical-align: text-top;  
+  width: 3%;
+}
+img.alineadoTextoImagenCentro{
+  vertical-align: middle;
+  width: 3%;
+}
+img.alineadoTextoImagenAbajo{
+  vertical-align: text-bottom;  
+}
+label{
+	margin-bottom:15px; 
+	font-size: 20px; 
+	font-style: bold;
+	color:white;
+}
+button{
+	background-color: #46E115;
+	border-radius: 15px;
+}
+.alineadoCentro{
+	vertical-align: text-bottom;
+}
+table, th, td {
+  border: 1px solid;
+  background-color:#97928D;
+  margin: 0 auto;
+}
+.imagen{
+	width: 15%;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+palabras{
+	color:white;
+	font-family: Arial, sans-serif;
+}
