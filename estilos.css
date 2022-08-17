@@ -126,3 +126,11 @@ palabras{
 	color:white;
 	font-family: Arial, sans-serif;
 }
+.cabecera{
+	width: 20%;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 80%;
+  	margin-bottom: 0%;
+}
